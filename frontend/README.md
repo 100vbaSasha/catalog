@@ -2,16 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server + fake-api serve:
 
 ```bash
-npm run dev
+npm run both
 # or
-yarn dev
+yarn both
 # or
-pnpm dev
+pnpm both
 # or
-bun dev
+bun both
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
