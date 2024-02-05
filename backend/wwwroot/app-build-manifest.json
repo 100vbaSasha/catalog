@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/app/_not-found-e504c9fe6d45aac9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/250-4e1d717d14f2d733.js",
+      "static/css/a3292ababbf9a88b.css",
+      "static/chunks/app/layout-9fee176926f94f09.js"
+    ],
+    "/catalog/[id]/page": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/250-4e1d717d14f2d733.js",
+      "static/chunks/607-2953b363c45a7873.js",
+      "static/chunks/app/catalog/[id]/page-803c9d39704eea2c.js"
+    ],
+    "/catalog/page": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/250-4e1d717d14f2d733.js",
+      "static/chunks/607-2953b363c45a7873.js",
+      "static/chunks/app/catalog/page-cefa717f52245666.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/app/page-9a523ca6079a7572.js"
+    ],
+    "/reviews/page": [
+      "static/chunks/webpack-7df76ee3787c5ef3.js",
+      "static/chunks/fd9d1056-4b022799287adcbb.js",
+      "static/chunks/69-9bc6598866f19f73.js",
+      "static/chunks/main-app-2918ee293278e008.js",
+      "static/chunks/670-cbc8569598f1d501.js",
+      "static/chunks/app/reviews/page-8bf0d7b5fb72543b.js"
+    ]
+  }
+}
