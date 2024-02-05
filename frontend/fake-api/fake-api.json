@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "rs6",
+      "mark": "Audi",
+      "price": "90.000",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-rs6-performance-motion-front-1669663114.jpg?crop=0.736xw:0.829xh;0.135xw,0.171xh&resize=768:*"
+    },
+    {
+      "id": 2,
+      "name": "m5",
+      "mark": "Bmw",
+      "price": "100.000",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-m5-sedan-rendering-1676575610.jpg"
+    },
+    {
+      "id": 3,
+      "name": "cls",
+      "mark": "Mercedes",
+      "price": "130.000",
+      "url": "https://i.infocar.ua/i/2/3824/91529/1920x.jpg"
+    },
+    {
+      "id": 4,
+      "name": "panamera",
+      "mark": "porshe",
+      "price": "170.000",
+      "url": "https://kor.ill.in.ua/m/1260x900/2240662.jpg"
+    }
+  ]
+}

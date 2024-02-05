@@ -1,0 +1,1 @@
+export const getCarIdFromPathname = (url: string): string => url.replace('/catalog/', '');
